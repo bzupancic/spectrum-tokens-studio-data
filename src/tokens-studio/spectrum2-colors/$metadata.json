@@ -1,12 +1,36 @@
 {
-  "tokenSetOrder": [
-    "spectrum2/palette/light",
-    "spectrum2/palette/dark",
-    "spectrum2/alias/light",
-    "spectrum2/alias/dark",
-    "spectrum2/icon/light",
-    "spectrum2/icon/dark",
-    "spectrum2/component/light",
-    "spectrum2/component/dark"
-  ]
+  "tokenSetOrder": {
+    "0": {
+      "value": "spectrum2/palette/light",
+      "type": "other"
+    },
+    "1": {
+      "value": "spectrum2/palette/dark",
+      "type": "other"
+    },
+    "2": {
+      "value": "spectrum2/alias/light",
+      "type": "other"
+    },
+    "3": {
+      "value": "spectrum2/alias/dark",
+      "type": "other"
+    },
+    "4": {
+      "value": "spectrum2/icon/light",
+      "type": "other"
+    },
+    "5": {
+      "value": "spectrum2/icon/dark",
+      "type": "other"
+    },
+    "6": {
+      "value": "spectrum2/component/light",
+      "type": "other"
+    },
+    "7": {
+      "value": "spectrum2/component/dark",
+      "type": "other"
+    }
+  }
 }
