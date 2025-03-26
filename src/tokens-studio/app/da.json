@@ -1,0 +1,148 @@
+{
+  "app": {
+    "100": {
+      "value": "{Palette.seafoam.100}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-100"
+        }
+      }
+    },
+    "200": {
+      "value": "{Palette.seafoam.200}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-200"
+        }
+      }
+    },
+    "300": {
+      "value": "{Palette.seafoam.300}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-300"
+        }
+      }
+    },
+    "400": {
+      "value": "{Palette.seafoam.400}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-400"
+        }
+      }
+    },
+    "500": {
+      "value": "{Palette.seafoam.500}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-500"
+        }
+      }
+    },
+    "600": {
+      "value": "{Palette.seafoam.600}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-600"
+        }
+      }
+    },
+    "700": {
+      "value": "{Palette.seafoam.700}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-700"
+        }
+      }
+    },
+    "800": {
+      "value": "{Palette.seafoam.800}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-800"
+        }
+      }
+    },
+    "900": {
+      "value": "{Palette.seafoam.900}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-900"
+        }
+      }
+    },
+    "1000": {
+      "value": "{Palette.seafoam.1000}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-1000"
+        }
+      }
+    },
+    "1100": {
+      "value": "{Palette.seafoam.1100}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-1100"
+        }
+      }
+    },
+    "1200": {
+      "value": "{Palette.seafoam.1200}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-1200"
+        }
+      }
+    },
+    "1300": {
+      "value": "{Palette.seafoam.1300}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-1300"
+        }
+      }
+    },
+    "1400": {
+      "value": "{Palette.seafoam.1400}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-1400"
+        }
+      }
+    },
+    "1500": {
+      "value": "{Palette.seafoam.1500}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-1500"
+        }
+      }
+    },
+    "1600": {
+      "value": "{Palette.seafoam.1600}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-1600"
+        }
+      }
+    }
+  }
+}

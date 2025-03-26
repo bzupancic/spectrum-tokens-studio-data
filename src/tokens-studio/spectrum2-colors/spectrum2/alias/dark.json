@@ -1645,7 +1645,7 @@
     "semantic": {
       "accent": {
         "100": {
-          "value": "{Palette.blue.100}",
+          "value": "{app.100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1655,7 +1655,7 @@
           }
         },
         "200": {
-          "value": "{Palette.blue.200}",
+          "value": "{app.200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1665,7 +1665,7 @@
           }
         },
         "300": {
-          "value": "{Palette.blue.300}",
+          "value": "{app.300}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1675,7 +1675,7 @@
           }
         },
         "400": {
-          "value": "{Palette.blue.400}",
+          "value": "{app.400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1685,7 +1685,7 @@
           }
         },
         "500": {
-          "value": "{Palette.blue.500}",
+          "value": "{app.500}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1695,7 +1695,7 @@
           }
         },
         "600": {
-          "value": "{Palette.blue.600}",
+          "value": "{app.600}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1705,7 +1705,7 @@
           }
         },
         "700": {
-          "value": "{Palette.blue.700}",
+          "value": "{app.700}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1715,7 +1715,7 @@
           }
         },
         "800": {
-          "value": "{Palette.blue.800}",
+          "value": "{app.800}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1725,7 +1725,7 @@
           }
         },
         "900": {
-          "value": "{Palette.blue.900}",
+          "value": "{app.900}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1735,7 +1735,7 @@
           }
         },
         "1000": {
-          "value": "{Palette.blue.1000}",
+          "value": "{app.1000}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1745,7 +1745,7 @@
           }
         },
         "1100": {
-          "value": "{Palette.blue.1100}",
+          "value": "{app.1100}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1755,7 +1755,7 @@
           }
         },
         "1200": {
-          "value": "{Palette.blue.1200}",
+          "value": "{app.1200}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1765,7 +1765,7 @@
           }
         },
         "1300": {
-          "value": "{Palette.blue.1300}",
+          "value": "{app.1300}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1775,7 +1775,7 @@
           }
         },
         "1400": {
-          "value": "{Palette.blue.1400}",
+          "value": "{app.1400}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1785,7 +1785,7 @@
           }
         },
         "1500": {
-          "value": "{Palette.blue.1500}",
+          "value": "{app.1500}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {
@@ -1795,7 +1795,7 @@
           }
         },
         "1600": {
-          "value": "{Palette.blue.1600}",
+          "value": "{app.1600}",
           "type": "color",
           "$extensions": {
             "spectrum-tokens": {

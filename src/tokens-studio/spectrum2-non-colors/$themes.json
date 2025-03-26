@@ -1,48 +1,118 @@
 {
   "mobile": {
-    "id": "e6e05eaed96a2e410f6a5e66dda1eaa68bf52fe1",
-    "selectedTokenSets": {
-      "spectrum2/icon/mobile": "enabled",
-      "spectrum2/layout/mobile": "enabled",
-      "spectrum2/layout.component/mobile": "enabled",
-      "spectrum2/typography/mobile": "enabled",
-      "spectrum2/typography.component/mobile": "enabled"
+    "id": {
+      "value": "e6e05eaed96a2e410f6a5e66dda1eaa68bf52fe1",
+      "type": "other"
     },
-    "$figmaStyleReferences": {},
-    "group": "S2.Scale",
-    "type": "other"
+    "selectedTokenSets": {
+      "spectrum2/icon/mobile": {
+        "value": "enabled",
+        "type": "other"
+      },
+      "spectrum2/layout/mobile": {
+        "value": "enabled",
+        "type": "other"
+      },
+      "spectrum2/layout": {
+        "component/mobile": {
+          "value": "enabled",
+          "type": "other"
+        }
+      },
+      "spectrum2/typography/mobile": {
+        "value": "enabled",
+        "type": "other"
+      },
+      "spectrum2/typography": {
+        "component/mobile": {
+          "value": "enabled",
+          "type": "other"
+        }
+      }
+    },
+    "group": {
+      "value": "S2.Scale",
+      "type": "other"
+    }
   },
   "desktop": {
-    "id": "689b644177e0122506b519097ecca2fa3a06ec8f",
-    "selectedTokenSets": {
-      "spectrum2/icon/desktop": "enabled",
-      "spectrum2/layout/desktop": "enabled",
-      "spectrum2/layout.component/desktop": "enabled",
-      "spectrum2/typography/desktop": "enabled",
-      "spectrum2/typography.component/desktop": "enabled"
+    "id": {
+      "value": "689b644177e0122506b519097ecca2fa3a06ec8f",
+      "type": "other"
     },
-    "$figmaStyleReferences": {},
-    "group": "S2.Scale",
-    "type": "other"
+    "selectedTokenSets": {
+      "spectrum2/icon/desktop": {
+        "value": "enabled",
+        "type": "other"
+      },
+      "spectrum2/layout/desktop": {
+        "value": "enabled",
+        "type": "other"
+      },
+      "spectrum2/layout": {
+        "component/desktop": {
+          "value": "enabled",
+          "type": "other"
+        }
+      },
+      "spectrum2/typography/desktop": {
+        "value": "enabled",
+        "type": "other"
+      },
+      "spectrum2/typography": {
+        "component/desktop": {
+          "value": "enabled",
+          "type": "other"
+        }
+      }
+    },
+    "group": {
+      "value": "S2.Scale",
+      "type": "other"
+    }
   },
   "light": {
-    "id": "ba475698596b2ca020b37426e165744c4279a9bf",
-    "selectedTokenSets": {
-      "spectrum2/opacity.alias/light": "enabled",
-      "spectrum2/opacity.component/light": "enabled"
+    "id": {
+      "value": "ba475698596b2ca020b37426e165744c4279a9bf",
+      "type": "other"
     },
-    "$figmaStyleReferences": {},
-    "group": "S2.Color-theme",
-    "type": "other"
+    "selectedTokenSets": {
+      "spectrum2/opacity": {
+        "alias/light": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "component/light": {
+          "value": "enabled",
+          "type": "other"
+        }
+      }
+    },
+    "group": {
+      "value": "S2.Color-theme",
+      "type": "other"
+    }
   },
   "dark": {
-    "id": "34ebdf3e9738d322fca662fa5f779ed2cc3ec4e5",
-    "selectedTokenSets": {
-      "spectrum2/opacity.alias/dark": "enabled",
-      "spectrum2/opacity.component/dark": "enabled"
+    "id": {
+      "value": "34ebdf3e9738d322fca662fa5f779ed2cc3ec4e5",
+      "type": "other"
     },
-    "$figmaStyleReferences": {},
-    "group": "S2.Color-theme",
-    "type": "other"
+    "selectedTokenSets": {
+      "spectrum2/opacity": {
+        "alias/dark": {
+          "value": "enabled",
+          "type": "other"
+        },
+        "component/dark": {
+          "value": "enabled",
+          "type": "other"
+        }
+      }
+    },
+    "group": {
+      "value": "S2.Color-theme",
+      "type": "other"
+    }
   }
 }

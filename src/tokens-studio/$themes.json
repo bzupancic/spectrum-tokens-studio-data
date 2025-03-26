@@ -724,7 +724,10 @@
       "spectrum2-non-colors/spectrum2/opacity.alias/light": "enabled",
       "spectrum2-non-colors/spectrum2/opacity.component/light": "enabled",
       "spectrum2-non-colors/$metadata": "enabled",
-      "spectrum2-non-colors/$themes": "enabled"
+      "spectrum2-non-colors/$themes": "enabled",
+      "app/cpq": "disabled",
+      "app/dc": "disabled",
+      "app/da": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:2",
     "$figmaModeId": "3:0",
@@ -1440,7 +1443,7 @@
       "Palette.static-red.900": "d6b63a2dff6122750a83a374c0e2dda63e2227e6",
       "Palette.static-red.1000": "124ad946d045d38661a7a10eb8c66bf1b61c78b0",
       "background-opacity-default": "e8fb9700d37337d991c4921664168e186412980a",
-      "background-opacity-down": "f98973a984320042d006837a865b355872fab608",
+      "background-opacity-down": "86dfd9a291367072c6f6e67b5ee87b23dd8bb999",
       "background-opacity-hover": "f05019bbe6c9e6383f2f694d59b9e118839f2e30",
       "background-opacity-key-focus": "8e98bd06cdf9a7172fe8922ab47bba3d3415c090",
       "opacity-disabled": "394a3310aec018c41ce49d8a1e5bbba68e1a693c",
@@ -2196,7 +2199,10 @@
       "spectrum2-non-colors/spectrum2/opacity.component/dark": "enabled",
       "spectrum2-non-colors/spectrum2/opacity.alias/dark": "enabled",
       "spectrum2-colors/$metadata": "enabled",
-      "spectrum2-colors/$themes": "enabled"
+      "spectrum2-colors/$themes": "enabled",
+      "app/cpq": "disabled",
+      "app/dc": "disabled",
+      "app/da": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:2",
     "$figmaModeId": "3:1",
@@ -2912,7 +2918,7 @@
       "Palette.static-red.900": "d6b63a2dff6122750a83a374c0e2dda63e2227e6",
       "Palette.static-red.1000": "124ad946d045d38661a7a10eb8c66bf1b61c78b0",
       "background-opacity-default": "e8fb9700d37337d991c4921664168e186412980a",
-      "background-opacity-down": "f98973a984320042d006837a865b355872fab608",
+      "background-opacity-down": "86dfd9a291367072c6f6e67b5ee87b23dd8bb999",
       "background-opacity-hover": "f05019bbe6c9e6383f2f694d59b9e118839f2e30",
       "background-opacity-key-focus": "8e98bd06cdf9a7172fe8922ab47bba3d3415c090",
       "opacity-disabled": "394a3310aec018c41ce49d8a1e5bbba68e1a693c",
@@ -2956,7 +2962,10 @@
       "spectrum2-non-colors/spectrum2/typography.component/desktop": "enabled",
       "spectrum2-non-colors/spectrum2/typography/desktop": "enabled",
       "spectrum2-colors/$metadata": "enabled",
-      "spectrum2-colors/$themes": "enabled"
+      "spectrum2-colors/$themes": "enabled",
+      "app/cpq": "disabled",
+      "app/dc": "disabled",
+      "app/da": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:3",
     "$figmaModeId": "3:2",
@@ -4216,7 +4225,10 @@
       "spectrum2-non-colors/spectrum2/typography.component/mobile": "enabled",
       "spectrum2-non-colors/spectrum2/typography/mobile": "enabled",
       "spectrum2-colors/$metadata": "enabled",
-      "spectrum2-colors/$themes": "enabled"
+      "spectrum2-colors/$themes": "enabled",
+      "app/cpq": "disabled",
+      "app/dc": "disabled",
+      "app/da": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:3",
     "$figmaModeId": "3:3",
@@ -5464,5 +5476,143 @@
       "serif-font-family": "ce743304053383e83fd87103e45dfb39f5e66e27"
     },
     "group": "scale"
+  },
+  {
+    "id": "27195dc43b46f8090fc494500bbc32c61fe67e01",
+    "name": "cpq",
+    "$figmaStyleReferences": {
+      "app.100": "S:334454a471398c2904100669103126e899b3b777,",
+      "app.200": "S:65e68fde90480ef23434725ba47d6d72b4c9dae5,",
+      "app.300": "S:f83d6184872edf867a567df72337260999707278,",
+      "app.400": "S:0be318b7f27f8ac5f62e477400dcada0dcba9726,",
+      "app.500": "S:84ec807d17b57b92f33dfdddcb101133197aca7a,",
+      "app.600": "S:4df679fa2405d0f821bd60c019c50f7320cfaea1,",
+      "app.700": "S:28c9949a8fd3d1dd2bb976ba48fd584532ae82a1,",
+      "app.800": "S:73ef204d61e77b4d088b4f871702ce5ef2e0a893,",
+      "app.900": "S:3f8585d79c3f5139a4a34cdaca6a608ac3ee3379,",
+      "app.1000": "S:d569ff7a42cdc168e4503543efae041c963db90c,",
+      "app.1100": "S:0e8ea66f1abbdc7cec2ce88967abf0f63ebf7d54,",
+      "app.1200": "S:591f78e21a1648477226930d17100939f1932707,",
+      "app.1300": "S:e65484535c89832e14c91814f318123c78aa74c6,",
+      "app.1400": "S:6e046a3a6b5255274cbc157809732670dcb8ee4a,",
+      "app.1500": "S:664a6e3c2218854d3715745d7d60251030f61a83,",
+      "app.1600": "S:d88a7fab247ba4acf2189b9dd0b2af72b02e5f27,"
+    },
+    "selectedTokenSets": {
+      "app/cpq": "enabled"
+    },
+    "group": "app",
+    "$figmaCollectionId": "VariableCollectionId:5:26",
+    "$figmaModeId": "5:0",
+    "$figmaVariableReferences": {
+      "app.100": "26efbd613df767e128070711ec249f2e4ed17506",
+      "app.200": "010bc52b7085debad75386a5c9a443d389292e77",
+      "app.300": "b6341af9b719cbe46c59cf6f7b6c0f0e3594e9be",
+      "app.400": "c42e2d3b8c289d995df5c0f506f491509424e857",
+      "app.500": "25ad08dfb776d36650164911f609fffc4bb1719a",
+      "app.600": "398cd9283dd77b1061c29035b794daa674d18718",
+      "app.700": "187b75296a83fe6745ca01262f7a8ed9f9b3419b",
+      "app.800": "212a04fd17155e60005db59d8e48f33e9b95daf5",
+      "app.900": "ba809dcb81b31d886a18dc4f089784baedf8597f",
+      "app.1000": "61fdf4429eee8e2693dfed69d1864f1c84048187",
+      "app.1100": "e94e6b7d57a96368390efdbc2924ef0e1f952c5d",
+      "app.1200": "0c3691d0b3597ad20bdd88d79d6669d54b71ddd4",
+      "app.1300": "b8b2cf9161216cbb787d790a2a38471e45e9471e",
+      "app.1400": "a4369425ec9e6886e83c97990d0fa0e2698aac72",
+      "app.1500": "ae22ba04c47705f483e644dd0828e1aa93b991a8",
+      "app.1600": "26f02f6ef8caf79fc96b3a6cce00961c15a9b916"
+    }
+  },
+  {
+    "id": "b306812fa65e683da776dbe12fa944b8d1be39af",
+    "name": "dc",
+    "$figmaStyleReferences": {
+      "app.100": "S:334454a471398c2904100669103126e899b3b777,",
+      "app.200": "S:65e68fde90480ef23434725ba47d6d72b4c9dae5,",
+      "app.300": "S:f83d6184872edf867a567df72337260999707278,",
+      "app.400": "S:0be318b7f27f8ac5f62e477400dcada0dcba9726,",
+      "app.500": "S:84ec807d17b57b92f33dfdddcb101133197aca7a,",
+      "app.600": "S:4df679fa2405d0f821bd60c019c50f7320cfaea1,",
+      "app.700": "S:28c9949a8fd3d1dd2bb976ba48fd584532ae82a1,",
+      "app.800": "S:73ef204d61e77b4d088b4f871702ce5ef2e0a893,",
+      "app.900": "S:3f8585d79c3f5139a4a34cdaca6a608ac3ee3379,",
+      "app.1000": "S:d569ff7a42cdc168e4503543efae041c963db90c,",
+      "app.1100": "S:0e8ea66f1abbdc7cec2ce88967abf0f63ebf7d54,",
+      "app.1200": "S:591f78e21a1648477226930d17100939f1932707,",
+      "app.1300": "S:e65484535c89832e14c91814f318123c78aa74c6,",
+      "app.1400": "S:6e046a3a6b5255274cbc157809732670dcb8ee4a,",
+      "app.1500": "S:664a6e3c2218854d3715745d7d60251030f61a83,",
+      "app.1600": "S:d88a7fab247ba4acf2189b9dd0b2af72b02e5f27,"
+    },
+    "selectedTokenSets": {
+      "app/dc": "enabled"
+    },
+    "group": "app",
+    "$figmaCollectionId": "VariableCollectionId:5:26",
+    "$figmaModeId": "5:1",
+    "$figmaVariableReferences": {
+      "app.100": "26efbd613df767e128070711ec249f2e4ed17506",
+      "app.200": "010bc52b7085debad75386a5c9a443d389292e77",
+      "app.300": "b6341af9b719cbe46c59cf6f7b6c0f0e3594e9be",
+      "app.400": "c42e2d3b8c289d995df5c0f506f491509424e857",
+      "app.500": "25ad08dfb776d36650164911f609fffc4bb1719a",
+      "app.600": "398cd9283dd77b1061c29035b794daa674d18718",
+      "app.700": "187b75296a83fe6745ca01262f7a8ed9f9b3419b",
+      "app.800": "212a04fd17155e60005db59d8e48f33e9b95daf5",
+      "app.900": "ba809dcb81b31d886a18dc4f089784baedf8597f",
+      "app.1000": "61fdf4429eee8e2693dfed69d1864f1c84048187",
+      "app.1100": "e94e6b7d57a96368390efdbc2924ef0e1f952c5d",
+      "app.1200": "0c3691d0b3597ad20bdd88d79d6669d54b71ddd4",
+      "app.1300": "b8b2cf9161216cbb787d790a2a38471e45e9471e",
+      "app.1400": "a4369425ec9e6886e83c97990d0fa0e2698aac72",
+      "app.1500": "ae22ba04c47705f483e644dd0828e1aa93b991a8",
+      "app.1600": "26f02f6ef8caf79fc96b3a6cce00961c15a9b916"
+    }
+  },
+  {
+    "id": "9be957df7450a014d245d19bdde804f9cb892136",
+    "name": "da",
+    "$figmaStyleReferences": {
+      "app.100": "S:334454a471398c2904100669103126e899b3b777,",
+      "app.200": "S:65e68fde90480ef23434725ba47d6d72b4c9dae5,",
+      "app.300": "S:f83d6184872edf867a567df72337260999707278,",
+      "app.400": "S:0be318b7f27f8ac5f62e477400dcada0dcba9726,",
+      "app.500": "S:84ec807d17b57b92f33dfdddcb101133197aca7a,",
+      "app.600": "S:4df679fa2405d0f821bd60c019c50f7320cfaea1,",
+      "app.700": "S:28c9949a8fd3d1dd2bb976ba48fd584532ae82a1,",
+      "app.800": "S:73ef204d61e77b4d088b4f871702ce5ef2e0a893,",
+      "app.900": "S:3f8585d79c3f5139a4a34cdaca6a608ac3ee3379,",
+      "app.1000": "S:d569ff7a42cdc168e4503543efae041c963db90c,",
+      "app.1100": "S:0e8ea66f1abbdc7cec2ce88967abf0f63ebf7d54,",
+      "app.1200": "S:591f78e21a1648477226930d17100939f1932707,",
+      "app.1300": "S:e65484535c89832e14c91814f318123c78aa74c6,",
+      "app.1400": "S:6e046a3a6b5255274cbc157809732670dcb8ee4a,",
+      "app.1500": "S:664a6e3c2218854d3715745d7d60251030f61a83,",
+      "app.1600": "S:d88a7fab247ba4acf2189b9dd0b2af72b02e5f27,"
+    },
+    "selectedTokenSets": {
+      "app/da": "enabled"
+    },
+    "group": "app",
+    "$figmaCollectionId": "VariableCollectionId:5:26",
+    "$figmaModeId": "5:2",
+    "$figmaVariableReferences": {
+      "app.100": "26efbd613df767e128070711ec249f2e4ed17506",
+      "app.200": "010bc52b7085debad75386a5c9a443d389292e77",
+      "app.300": "b6341af9b719cbe46c59cf6f7b6c0f0e3594e9be",
+      "app.400": "c42e2d3b8c289d995df5c0f506f491509424e857",
+      "app.500": "25ad08dfb776d36650164911f609fffc4bb1719a",
+      "app.600": "398cd9283dd77b1061c29035b794daa674d18718",
+      "app.700": "187b75296a83fe6745ca01262f7a8ed9f9b3419b",
+      "app.800": "212a04fd17155e60005db59d8e48f33e9b95daf5",
+      "app.900": "ba809dcb81b31d886a18dc4f089784baedf8597f",
+      "app.1000": "61fdf4429eee8e2693dfed69d1864f1c84048187",
+      "app.1100": "e94e6b7d57a96368390efdbc2924ef0e1f952c5d",
+      "app.1200": "0c3691d0b3597ad20bdd88d79d6669d54b71ddd4",
+      "app.1300": "b8b2cf9161216cbb787d790a2a38471e45e9471e",
+      "app.1400": "a4369425ec9e6886e83c97990d0fa0e2698aac72",
+      "app.1500": "ae22ba04c47705f483e644dd0828e1aa93b991a8",
+      "app.1600": "26f02f6ef8caf79fc96b3a6cce00961c15a9b916"
+    }
   }
 ]

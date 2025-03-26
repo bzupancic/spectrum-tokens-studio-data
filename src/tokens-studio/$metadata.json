@@ -1,5 +1,8 @@
 {
   "tokenSetOrder": [
+    "app/cpq",
+    "app/dc",
+    "app/da",
     "spectrum2-colors/$metadata",
     "spectrum2-colors/$themes",
     "spectrum2-colors/spectrum2/alias/dark",

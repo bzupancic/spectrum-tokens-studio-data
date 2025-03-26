@@ -1,0 +1,148 @@
+{
+  "app": {
+    "100": {
+      "value": "{Palette.blue.100}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-100"
+        }
+      }
+    },
+    "200": {
+      "value": "{Palette.blue.200}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-200"
+        }
+      }
+    },
+    "300": {
+      "value": "{Palette.blue.300}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-300"
+        }
+      }
+    },
+    "400": {
+      "value": "{Palette.blue.400}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-400"
+        }
+      }
+    },
+    "500": {
+      "value": "{Palette.blue.500}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-500"
+        }
+      }
+    },
+    "600": {
+      "value": "{Palette.blue.600}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-600"
+        }
+      }
+    },
+    "700": {
+      "value": "{Palette.blue.700}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-700"
+        }
+      }
+    },
+    "800": {
+      "value": "{Palette.blue.800}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-800"
+        }
+      }
+    },
+    "900": {
+      "value": "{Palette.blue.900}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-900"
+        }
+      }
+    },
+    "1000": {
+      "value": "{Palette.blue.1000}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-1000"
+        }
+      }
+    },
+    "1100": {
+      "value": "{Palette.blue.1100}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-1100"
+        }
+      }
+    },
+    "1200": {
+      "value": "{Palette.blue.1200}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-1200"
+        }
+      }
+    },
+    "1300": {
+      "value": "{Palette.blue.1300}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-1300"
+        }
+      }
+    },
+    "1400": {
+      "value": "{Palette.blue.1400}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-1400"
+        }
+      }
+    },
+    "1500": {
+      "value": "{Palette.blue.1500}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-1500"
+        }
+      }
+    },
+    "1600": {
+      "value": "{Palette.blue.1600}",
+      "type": "color",
+      "$extensions": {
+        "spectrum-tokens": {
+          "name": "app-color-1600"
+        }
+      }
+    }
+  }
+}
