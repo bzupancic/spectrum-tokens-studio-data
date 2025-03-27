@@ -1,42 +1,82 @@
 {
-  "divder-border-radius": {
-    "large": {
-      "value": "{divider-thickness-large}",
-      "type": "borderRadius"
-    },
-    "medium": {
-      "value": "{divider-thickness-large}",
-      "type": "borderRadius"
-    },
-    "small": {
-      "value": "{divider-thickness-large}",
-      "type": "borderRadius"
-    }
-  },
-  "divider-vertical-margin": {
-    "large": {
+  "-sizeL": {
+    "divider-vertical-margin": {
       "value": "{divider-thickness-large}",
       "type": "spacing"
     },
-    "medium": {
+    "divder-border-radius": {
+      "value": "{divider-thickness-large}",
+      "type": "borderRadius"
+    },
+    "divider-background-color": {
+      "value": "{Palette.gray.800}",
+      "type": "color"
+    },
+    "divider-background-color-static-white": {
+      "value": "{Palette.transparent-white.200}",
+      "type": "color"
+    },
+    "divider-background-color-static-black": {
+      "value": "{Palette.transparent-black.200}",
+      "type": "color"
+    }
+  },
+  "-sizeM": {
+    "divider-vertical-margin": {
       "value": "{divider-thickness-medium}",
       "type": "spacing"
     },
-    "small": {
+    "divder-border-radius": {
+      "value": "{divider-thickness-medium}",
+      "type": "borderRadius"
+    }
+  },
+  "-sizeS": {
+    "divider-vertical-margin": {
       "value": "{divider-thickness-small}",
       "type": "spacing"
+    },
+    "divder-border-radius": {
+      "value": "{divider-thickness-small}",
+      "type": "borderRadius"
     }
   },
   "divider-background-color": {
     "value": "{Palette.gray.200}",
     "type": "color"
   },
-  "divider-static-white-background-color": {
+  "divider-background-color-static-white": {
     "value": "{Palette.transparent-white.200}",
     "type": "color"
   },
-  "divider-static-black-background-color": {
+  "divider-background-color-static-black": {
     "value": "{Palette.transparent-black.200}",
     "type": "color"
+  },
+  "spectrum-Divider--vertical": {
+    "large": {
+      "value": {
+        "minWidth": "{divider-thickness-large}",
+        "maxWidth": "{divider-thickness-large}",
+        "verticalPadding": "{divider-thickness-large}"
+      },
+      "type": "composition"
+    },
+    "medium": {
+      "value": {
+        "minWidth": "{divider-thickness-medium}",
+        "maxWidth": "{divider-thickness-medium}",
+        "verticalPadding": "{divider-thickness-medium}"
+      },
+      "type": "composition"
+    },
+    "small": {
+      "value": {
+        "minWidth": "{divider-thickness-small}",
+        "maxWidth": "{divider-thickness-small}",
+        "verticalPadding": "{divider-thickness-small}"
+      },
+      "type": "composition"
+    }
   }
 }

@@ -372,7 +372,7 @@
     },
     "table": {
       "non-emphasized-selected-row-background": {
-        "value": "{Alias.background.neutral-selected.default}",
+        "value": "{background.neutral-selected.default}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -392,7 +392,7 @@
         }
       },
       "selected-row-background": {
-        "value": "{Alias.background.semantic.informative.default}",
+        "value": "{background.semantic.informative.default}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
@@ -426,7 +426,7 @@
         }
       },
       "selected-row-background-color-emphasized": {
-        "value": "{Alias.background.semantic.informative.default}",
+        "value": "{background.semantic.informative.default}",
         "type": "color",
         "$extensions": {
           "spectrum-tokens": {
