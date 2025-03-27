@@ -1,0 +1,42 @@
+{
+  "divder-border-radius": {
+    "large": {
+      "value": "{divider-thickness-large}",
+      "type": "borderRadius"
+    },
+    "medium": {
+      "value": "{divider-thickness-large}",
+      "type": "borderRadius"
+    },
+    "small": {
+      "value": "{divider-thickness-large}",
+      "type": "borderRadius"
+    }
+  },
+  "divider-vertical-margin": {
+    "large": {
+      "value": "{divider-thickness-large}",
+      "type": "spacing"
+    },
+    "medium": {
+      "value": "{divider-thickness-medium}",
+      "type": "spacing"
+    },
+    "small": {
+      "value": "{divider-thickness-small}",
+      "type": "spacing"
+    }
+  },
+  "divider-background-color": {
+    "value": "{Palette.gray.200}",
+    "type": "color"
+  },
+  "divider-static-white-background-color": {
+    "value": "{Palette.transparent-white.200}",
+    "type": "color"
+  },
+  "divider-static-black-background-color": {
+    "value": "{Palette.transparent-black.200}",
+    "type": "color"
+  }
+}

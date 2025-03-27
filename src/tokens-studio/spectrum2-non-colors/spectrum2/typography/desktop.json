@@ -90,7 +90,7 @@
     }
   },
   "extra-bold-font-weight": {
-    "value": "ExtraBold",
+    "value": "Bold",
     "type": "fontWeights",
     "$extensions": {
       "spectrum-tokens": {
